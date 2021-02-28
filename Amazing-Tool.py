@@ -3,7 +3,7 @@ os.system("clear")
 os.system("xdg-open https://youtube.com/c/SLPhoneTechnician")
 os.system("toilet -f mono12 -F border Tool")
 print('\033[1;31m'"______________________________________________")
-print("                                                                                "
+print("         ")                                                                       "
 print('\033[1;32m'"Choose an option")
 print("                              ")
 print('\033[1;31m'"            1)Clock")
