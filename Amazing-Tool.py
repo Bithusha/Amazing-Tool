@@ -28,4 +28,4 @@ elif (marks==5):
         print("Good Bye")
 elif (marks>=6):
         print("wrong option")
-        os.system("python amazing-tool.py")
+        os.system("python Amazing-Tool.py")
