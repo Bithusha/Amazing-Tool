@@ -1,6 +1,6 @@
 import os,sys,time
 os.system("clear")
-os.system("xdg-open https://youtube.com/c/SLPhoneTechnician")
+os.system("xdg-open https://youtube.com/channel/UCWNRCD8AS0MXcW5CrqC3EEQ")
 os.system("toilet -f mono12 -F border Tool")
 print('\033[1;31m'"______________________________________________")
 print("         ")
